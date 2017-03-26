@@ -1,4 +1,4 @@
-# Schrader-hubot bruh
+# Schrader-hubot 
 Slackbot for Theta Tau.
 =======
 
